@@ -4,8 +4,8 @@ This is a solution to the interactive rating component challenge on Frontend Men
 
 ### Screenshot
 
-![Interactive rating component](images/rating-solution.png.png)
-![Interactive rating component](images/thank-you-solution.png.png)
+![Interactive rating component](images/rating-solution.png)
+![Interactive rating component](images/thank-you-solution.png)
 
 ### Links
 

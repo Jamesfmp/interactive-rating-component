@@ -82,10 +82,25 @@ h6 {
   align-items: center;
   margin-bottom: 10px;
 }
+.illustration{
+  margin: 0 auto; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin-top: 50px; 
+}
 
 .text{
   margin-top: 20px;
   margin-bottom: 20px
+}
+.text_hidden{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 h1{
@@ -110,8 +125,16 @@ p{
   border-radius: 50%;
   background-color: rgba(38, 47, 56, 255);
   color: var(--light_grey);
+  cursor: pointer
 }
-
+.score-btns *:hover{
+  background-color: var(--orange);
+  color: white
+}
+.score-btns *:focus{
+  background-color: var(--light_grey);
+  color: white
+}
 
 .submit-btn{
   border: none;
@@ -124,5 +147,22 @@ p{
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
+  
+}
 
+.submit-btn:hover{
+  background-color: var(--white);
+  color: var(--orange);
+  transition: 0.3s
+}
+
+.rating-selection{
+  background-color: #213038;
+  color: var(--orange);
+  border-radius: 40px;
+  height: 25px;
+  width: 200px;
+  padding-top: 4px;
+  margin-bottom: 15px
 }

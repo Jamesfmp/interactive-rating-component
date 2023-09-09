@@ -9,7 +9,7 @@ This is a solution to the interactive rating component challenge on Frontend Men
 
 ### Links
 
-- Live Site URL: (https://phenomenal-froyo-f75422.netlify.app/)
+- Live Site URL: (https://exquisite-choux-471bf0.netlify.app/)
 
 ### Built with
 
